@@ -1,0 +1,10 @@
+{
+  "name": "ts-compiler",
+  "version": "0.0.2",
+  "settings": {
+    "logLevel": "debug",
+    "maxRetries": 1,
+    "timeout": 5000
+  },
+  "created": "2026-05-05T03:24:28.155Z"
+}
